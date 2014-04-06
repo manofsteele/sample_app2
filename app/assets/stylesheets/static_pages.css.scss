@@ -1,3 +1,20 @@
 // Place all the styles related to the StaticPages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.main {font: 14pt Tahoma;
+color: #663300;
+background: #33ccff;
+text-indent: 1.2in;
+margin-left: 150px;
+margin-right: 150px;
+text-align: justify;
+border: dotted;
+padding: 10px;
+}
+
+h1.page-title {
+	font-family: Helvetica;
+	color: #a64b00;
+	font-size: 24pt;
+	}
